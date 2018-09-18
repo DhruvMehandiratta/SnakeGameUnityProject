@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: facc238894798f544ae03010b3bdc166
+timeCreated: 1517984741
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tailPrefab: {fileID: 1634619210152630, guid: 7fb10ef42a235d14095d1ee317e750fb,
+      type: 2}
+  - scoreText: {instanceID: 0}
+  - lifeText: {instanceID: 0}
+  - timerText: {instanceID: 0}
+  - topScoreText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
